@@ -24,12 +24,13 @@ O framework **Spec-Driven Development (Spec-Kit)** foi instalado a partir do rep
 ```bash
 uvx --from git+https://github.com/github/spec-kit.git specify init .
 
-⚙️ Configuração realizada
+### ⚙️ Configuração realizada
 Inicialização do projeto biblioteca-online
 Estrutura /specs criada automaticamente
 Integração com agente OpenCode
 Escolha de arquitetura monorepo
-🤖 2. Uso de IA (OpenCode)
+
+### 🤖 2. Uso de IA (OpenCode)
 
 Foi utilizado o OpenCode (IA agente) para atuar junto ao Spec-Kit.
 
@@ -40,7 +41,8 @@ Criar plano de desenvolvimento
 Gerar tarefas estruturadas
 Criar issues para GitHub
 Criar plano de implementação
-📚 3. PROJETO ESCOLHIDO
+
+### 📚 3. PROJETO ESCOLHIDO
 🏫 Sistema: Biblioteca Online
 🎯 Objetivo
 
@@ -50,7 +52,8 @@ Usuários
 Livros
 Empréstimos
 Histórico
-📜 4. FLUXO SPEC-KIT (SDD)
+
+###📜 4. FLUXO SPEC-KIT (SDD)
 🧠 speckit-constitution
 
 Regras do sistema:
@@ -63,22 +66,22 @@ Validação com Zod
 Código modular e escalável
 📘 speckit-specify
 
-Requisitos funcionais:
+### Requisitos funcionais:
 
-👤 Usuários
+### 👤 Usuários
 Cadastro
 Login
 Autenticação JWT
-📚 Livros
+### 📚 Livros
 Criar
 Editar
 Listar
 Remover
-🔄 Empréstimos
+### 🔄 Empréstimos
 Emprestar livro
 Devolver livro
 Histórico
-🧠 speckit-plan
+### 🧠 speckit-plan
 
 Arquitetura definida:
 
@@ -135,7 +138,8 @@ CRUD de livros
 Empréstimos
 Frontend
 Testes finais
-📊 5. RESULTADO FINAL
+
+### 📊 5. RESULTADO FINAL
 
 ✔ Framework Spec-Kit instalado
 ✔ IA OpenCode utilizada
@@ -143,7 +147,7 @@ Testes finais
 ✔ Documentação completa gerada
 ✔ Projeto estruturado profissionalmente
 
-🏁 CONCLUSÃO
+### 🏁 CONCLUSÃO
 
 O projeto Biblioteca Online foi desenvolvido seguindo o modelo Spec-Driven Development (SDD) com:
 
